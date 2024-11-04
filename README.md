@@ -1,6 +1,7 @@
 ### SubX soil moisture
 This folder contains the scripts (NCL) written for generating the fugures in the paper. The files are named according to the fgure they generate.
-![Fig_1](https://github.com/user-attachments/assets/4057edbf-a8e3-4ccb-8a3d-884aef429ade)
+![Fig_1_final](https://github.com/user-attachments/assets/d5559b65-292b-422c-93ab-594ac090f6c3)
+
 
 #### Figure 2:
 **Data requirements**
