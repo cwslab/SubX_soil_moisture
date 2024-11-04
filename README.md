@@ -1,5 +1,5 @@
 ### SubX soil moisture
-This folder contains the scripts (NCL) written for generating the fugures in the paper. The files are named according to the fgure they generate.
+This folder contains the scripts (NCL) written to generate the figures in the paper. The files are named according to the figure they generate.
 ![Fig_1_final](https://github.com/user-attachments/assets/d5559b65-292b-422c-93ab-594ac090f6c3)
 
 
@@ -9,7 +9,7 @@ This folder contains the scripts (NCL) written for generating the fugures in the
 - Corre_combineSM_CAM6climoATMclimoLND_0_45_leaddays_4_seasons_normalized_1999_2018.nc
 - Corre_combineSM_CAM6climoOCNclimoATMv2_0_45_leaddays_4_seasons_normalized_1999_2018.nc
 
-Make sure you adjust the code to the path of the location o fthese datasets, then run the code here:
+Make sure you adjust the code to the path of the location of these datasets, then run the code here:
 
 ```
 ncl Fig2b_m_npj_rev1_plot_combineSM_SubXCAM6_season_corre_1_14days_normalized_CONUS_NEON_site_1999_2018_remain_exp_rev1.ncl
